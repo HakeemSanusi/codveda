@@ -1,0 +1,18 @@
+
+£
+java:S1598"…This file "Main.java" should be located in "com/codveda" directory, not in "/Users/mac/Desktop/codveda/level-1/basic-calculator/src".(­¾Ð˜8”›¶Æ·3
+M
+java:S3010
+"0Remove this assignment of "arithmeticOperation".(íÎÿ˜8§›¶Æ·3
+R
+java:S2209
+"5Change this instance-reference to a static reference.(íÎÿ˜8¨›¶Æ·3
+G	java:S106"+Replace this use of System.out by a logger.(Ç €þ8·›¶Æ·3
+L	java:S106"+Replace this use of System.out by a logger.(²æ¸·üÿÿÿÿ8º›¶Æ·3
+L	java:S106"+Replace this use of System.out by a logger.(ÇŸìžúÿÿÿÿ8¼›¶Æ·3
+L	java:S106*"+Replace this use of System.out by a logger.(÷…š“üÿÿÿÿ8À›¶Æ·3
+L	java:S106."+Replace this use of System.out by a logger.(òþÚúøÿÿÿÿ8À›¶Æ·3
+G	java:S1061"+Replace this use of System.out by a logger.(äìÎÆ8Â›¶Æ·3
+G	java:S1063"+Replace this use of System.out by a logger.(£È¦à8Å›¶Æ·3
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Æ›¶Æ·3
